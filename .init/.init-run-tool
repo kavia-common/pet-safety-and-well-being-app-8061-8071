@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew installDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/pet-safety-and-well-being-app-8061-8071/pet_safety_android_app"
+}
